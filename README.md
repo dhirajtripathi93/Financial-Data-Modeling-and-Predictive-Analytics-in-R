@@ -763,7 +763,7 @@ which zipcode has maximum properties.
 
     ## Warning: `line.width` does not currently support multiple values.
 
-![](MIT_Capstone_FinalProject_GIT_files/figure-markdown_strict/unnamed-chunk-21-1.png)
+![unnamed-chunk-21-1](https://user-images.githubusercontent.com/39188654/51153317-aa417900-183d-11e9-8e8e-74a81716086d.png)
 
 From the above two plots, we can say that the zipcodes with maximum
 percent of properties are not the ones which generate the maximum
