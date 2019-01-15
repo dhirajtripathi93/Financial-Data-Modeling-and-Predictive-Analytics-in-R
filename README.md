@@ -826,8 +826,7 @@ Cost Ratio.
 
     ## Warning: Ignoring 762 observations
 
-![](MIT_Capstone_FinalProject_GIT_files/figure-markdown_strict/unnamed-chunk-23-1.png)
-
+![unnamed-chunk-23-1](https://user-images.githubusercontent.com/39188654/51153329-ba595880-183d-11e9-962c-4468fb779e66.png)
 Conclusion
 ==========
 
