@@ -745,7 +745,9 @@ Visualize the trend between Revenue and Total Cost
              yaxis = list(showgrid = T),
              showlegend = T)
 
-![](Code Chunk-1.png)
+<p>
+    <img src="airBnb-and-Zillow-data-challenge/Code Chunk-1.png" width="220" height="240" />
+</p>
 
 From the Figure, we conclude that Zipcodes 10011,10023,1004 have the
 most revenue by quarter 1 against the total cost
