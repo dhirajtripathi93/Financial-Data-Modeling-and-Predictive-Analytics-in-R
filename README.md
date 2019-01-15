@@ -1,17 +1,13 @@
 # airBnb-and-Zillow-data-challenge
 You are consulting for a real estates agency and you have to predict which zipcodes are the best profitable in investing. You are given 2 datasets for this.
 
-MITA Capstone Project - Air Bnb and zillow data challenge
+Capstone Project - Air Bnb and zillow data challenge
 =========================================================
 
 Submitted by - Dhiraj Tripathi
 ------------------------------
 
-Ruid - 182002411
-----------------
 
-Under supervision of Professor Sergei Schreider
------------------------------------------------
 
 The data challenge is about a real estate agency willing to invest in
 New York city. The agency has already learnt that investing in 2 Bedroom
