@@ -803,8 +803,7 @@ Revenue by Q1 vs Zipcodes
 
     ## Warning: Ignoring 762 observations
 
-![](MIT_Capstone_FinalProject_GIT_files/figure-markdown_strict/unnamed-chunk-22-1.png)
-
+![unnamed-chunk-22-1](https://user-images.githubusercontent.com/39188654/51153323-b299b400-183d-11e9-8dff-ef096dead2b3.png)
 This message shows that even if n = 1238, then too all the zipcodes
 would have been queried against revenue.
 
